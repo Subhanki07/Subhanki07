@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, Java8, HTML, CSS, MYSql.
 - 👯 I’m looking to collaborate with Web Development and open Source Projects.
 - 🥅 Goals: Explore more technologies.
-- 📫 How to reach me: subhankidibyadarsinisahoo@gmail.com.
+- 📫 How to reach me: subhankisahoo257@gmail.com.
 
 
 <br>
